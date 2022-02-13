@@ -23,18 +23,10 @@ A demo for the app can be found [here](https://drive.google.com/file/d/1gh2thzqe
 4. Store the state of the app with App Storage
 5. How to display an Onboarding or Home Screen
 6. Practical use of App Life Ciclye of SwiftUI 
-7. Use if LinkView
-8. Use of Group Box View
-9. Use of Disclosure View
+7. Use LinkView
+8. Use Group Box View
+9. Use Disclosure View
 10. Display views dinamically in a List View with a loop
-
-### User interace and experience (App Design)
-1. Graphics
-2. Light and Dark apperances
-3. Subtle animations
-4. Dynamic background gradients
-5. iOS layout design
-6. Clean user interface design
 
 
 ## New Concepts used:
@@ -49,49 +41,42 @@ Starting Xcode you can use svg based assets in your app.
 ```
 The default accent color for the entire app can be changed now.
 ```
-
 <br/>
 
 #### PageTabViewStyle
 ```
 A TabViewStyle that implements a paged scrolling TabView.
 ```
-
 <br/>
 
 #### App protocol 
 ```
 A new protocol that represents the structure and behavior of an app.
 ```
-
 <br/>
 
 #### AppStorage
 ```
 A property wrapper type that reflects a value from UserDefaults and updates UI based on value chanegs.
 ```
-
 <br/>
 
 #### Title2
 ```
 A new case in the FontStyle enum. To be used in second level hierarchy of view. (Ex: subtitle)
 ```
-
 <br/>
 
 #### GroupBox 
 ```
 A stylized view with an optional label that is associated with a logical grouping of content.
 ```
-
 <br/>
 
 #### Link
 ```
 A new easy to implement control to naviagate to any URL.
 ```
-
 <br/>
 
 #### DisclosureGroup 
