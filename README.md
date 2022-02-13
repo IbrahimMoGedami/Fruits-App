@@ -1,6 +1,5 @@
 # Fruits-App
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 This is a Fruits encyclopedia, which gives iPhone and iPad users information about different kinds of fruits. Information such as its description and the nutrients it contains.
 A demo for the app can be found [here](https://drive.google.com/file/d/1gh2thzqewynPJFKVyk7OEt8gHsPxHgLa/view?usp=sharing)
@@ -18,12 +17,12 @@ A demo for the app can be found [here](https://drive.google.com/file/d/1gh2thzqe
 
 ### Objectives
 
-1. Develop an iOS 14 application with SwiftUI 2.0 framework
+1. Develop an iOS application with SwiftUI framework
 2. Create an Onboarding Screen with Page Tab View
 3. Create a Data Model and fetch data using Swift language
 4. Store the state of the app with App Storage
 5. How to display an Onboarding or Home Screen
-6. Practical use of App Life Ciclye of SwiftUI 2
+6. Practical use of App Life Ciclye of SwiftUI 
 7. Use if LinkView
 8. Use of Group Box View
 9. Use of Disclosure View
@@ -34,7 +33,7 @@ A demo for the app can be found [here](https://drive.google.com/file/d/1gh2thzqe
 2. Light and Dark apperances
 3. Subtle animations
 4. Dynamic background gradients
-5. iOS 14 layout design
+5. iOS layout design
 6. Clean user interface design
 
 
@@ -42,7 +41,7 @@ A demo for the app can be found [here](https://drive.google.com/file/d/1gh2thzqe
 
 #### SVG file: 
 ```
-Starting Xcode 12.0 you can use svg based assets in your app.
+Starting Xcode you can use svg based assets in your app.
 ```
 <br/>
 
